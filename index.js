@@ -11,6 +11,7 @@ module.exports = app => {
     return context.github.issues.createComment(issueComment)
   })
 
+  // Silly change...
   // For more information on building apps:
   // https://probot.github.io/docs/
 
