@@ -12,6 +12,7 @@ module.exports = app => {
   })
 
   // Silly change...
+  // Yes. Another change.
   // For more information on building apps:
   // https://probot.github.io/docs/
 
