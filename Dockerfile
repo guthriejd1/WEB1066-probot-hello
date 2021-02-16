@@ -8,7 +8,7 @@ ENV APP_ID=1234
 ENV WEBHOOK_SECRET=development
 ENV WEBHOOK_PROXY_URL=https://localhost:3000/
 ENV PRIVATE_KEY="someprivatestring"
-
+# jimbob
 # see https://github.com/nodejs/docker-node/blob/e3ec2111af089e31321e76641697e154b3b6a6c3/docs/BestPractices.md#global-npm-dependencies
 ENV NPM_CONFIG_PREFIX=/home/node/.npm-global
 ENV PATH=$PATH:/home/node/.npm-global/bin
